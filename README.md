@@ -1,0 +1,2 @@
+- I'm Akash Deo :smiley:
+- I'm a CS Major @ Northwestern University, and I'm interested in software engineering! :computer:
