@@ -1,4 +1,4 @@
-Hi! I'm Akash Deo.
+** Hi! I'm Akash Deo.
 
 I'm interested in compilers, specifically, what role compilers will play in an age of AI. To that end, I'm: 
 1. Exposing certain static analyses from the compiler to AI agents. Programming langauge tools like compilers are not built for AI - but they can be. Exposing higher quality analyses to AI agents might make it easier to write faster, more concise code.  
